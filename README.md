@@ -1,6 +1,6 @@
 ### Hello There! I'm Ayush  👋
 
-<video align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" ></video>
+ <img align="right" alt="GIF" src="https://github.com/ayushshawnfrost/ayushshawnfrost/blob/main/bdafde4779c28cb37f3e0356a1b7dac8.webp" width="500" height="320" />
 
 - 👀 I’m believe learning is a never ending process...
 - 🌱 I’m currently working as Front End Developer ...
@@ -8,8 +8,7 @@
 - 😄 Pronouns: He/Him
 
 ### 💬 Ask me about ... Anything
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<img align="left" alt="ayush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](linkedin.com/in/ayushsharmasde)
 
 <!---
 ayushshawnfrost/ayushshawnfrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
