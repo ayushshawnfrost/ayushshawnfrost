@@ -1,9 +1,9 @@
 ### Hello There! I'm Ayush  👋
+![IMG-20240512-WA0084s](https://github.com/ayushshawnfrost/ayushshawnfrost/assets/23500476/7434b7db-1517-4077-80a8-9ab202e67665)
 
- <img align="right" alt="GIF" src="https://github.com/ayushshawnfrost/ayushshawnfrost/blob/main/bdafde4779c28cb37f3e0356a1b7dac8.webp" width="500" height="320" />
 
 - 👀 I believe learning is a never ending process
-- 🌱 I’m currently  persuing master's degree in Computer Science @ CSU East bay
+- 🌱 Master's degree in Computer Science @ CSU East bay
 - 💞️ I’m looking to collaborate on open source
 - 😄 Pronouns: He/Him
 
