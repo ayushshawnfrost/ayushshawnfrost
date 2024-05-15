@@ -6,7 +6,7 @@
 ---
 
 
-I'm an full-stack developer and i love making software development related articles. I am a big fan of "learning is a never ending process". I publish articles on my medium.com, 500+ readers/month.
+I am a full-stack developer with a passion for writing software development articles. I firmly believe that learning is a continuous journey. I regularly publish articles on Medium.com, where I have over 500 readers each month.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/ayushsharmasde/">
