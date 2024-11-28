@@ -18,6 +18,18 @@ I am a full-stack developer with a passion for writing software development arti
    </p>
 
 ---
+### 🏛️ Research Publication:
+
+A Deep Learning Model and Web Application for American Sign Language Recognition
+
+https://dl.acm.org/doi/10.1145/3695719.3695723
+
+<img  alt="ACM" width="80" height="80" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg" />
+
+
+<br />
+
+---
 
 ### 🧰 Languages and Tools
 
